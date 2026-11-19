@@ -1,0 +1,18 @@
+
+# Database credentials
+config/db.php
+
+# Environment variables
+.env
+
+# Dependencies
+vendor/
+node_modules/
+
+# Temporary and system files
+.DS_Store
+Thumbs.db
+*.log
+
+# Local development files
+.phpunit.cache/
