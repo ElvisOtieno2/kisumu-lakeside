@@ -1,6 +1,6 @@
 
 # Database credentials
-config/db.php
+config/db.local.php
 
 # Environment variables
 .env
